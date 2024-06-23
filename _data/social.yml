@@ -17,7 +17,7 @@ zhihu:
   fa-icon: 'fab fa-zhihu'
 
 weichat:
-  id: 'Fish_and_Fisher'
-  href: 'Wechat_id:'
+  id: 'fish_and_fisher'
+  href: ''
   title: 'Wechat'
   fa-icon: 'fab fa-wexin'
