@@ -79,12 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-<<<<<<< HEAD
-  ont-family: 'East Sea Dokdo', cursive;
-=======
-  /*font-family: 'East Sea Dokdo', cursive;*/
-  font-family: :'Comic Sans MS', cursive;
->>>>>>> parent of fca2a042 (initial commit)
+  font-family: 'East Sea Dokdo', cursive;
   font-size: 3.25rem;
 }
 

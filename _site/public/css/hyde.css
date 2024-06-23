@@ -79,8 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  /*font-family: 'East Sea Dokdo', cursive;*/
-  font-family: :'Comic Sans MS', cursive;
+  font-family: 'East Sea Dokdo', cursive;
   font-size: 3.25rem;
 }
 
