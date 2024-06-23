@@ -15,3 +15,9 @@ zhihu:
   href: 'https://www.zhihu.com/people/'
   title: 'Zhihu'
   fa-icon: 'fab fa-zhihu'
+
+zhihu:
+  id: 'Fish_and_Fisher'
+  href: 'Wechat_id:'
+  title: 'Wechat'
+  fa-icon: 'fab fa-wexin'
