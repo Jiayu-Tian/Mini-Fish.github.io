@@ -16,7 +16,7 @@ zhihu:
   title: 'Zhihu'
   fa-icon: 'fab fa-zhihu'
 
-zhihu:
+weichat:
   id: 'Fish_and_Fisher'
   href: 'Wechat_id:'
   title: 'Wechat'
