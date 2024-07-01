@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于 About
 permalink: /about/
 ---
+
+你好！我是小鱼，一个准备攻读博士学位的研究生。我的研究兴趣包括优化、智能电网和中国少数群体法律保障。如果有什么问题或建议，欢迎随时找我探讨！
+
+Hello! I’m Mini-Fish, a graduate student preparing to pursue a Ph.D. degree. My research interests include optimization, smart grids, and the legal protection of Chinese minority groups. If you have any questions or suggestions, feel free to reach out to me !
 
